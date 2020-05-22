@@ -1,0 +1,161 @@
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-family: 'Bangers', cursive;
+}
+
+#title {
+  background-color: #1b262c;
+  color: #fff;
+  text-align: left;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.row-1{
+  padding: 5% 5%;
+}
+
+.button-space{
+  margin: 10% 5% 10% 0%;
+  color: #000;
+}
+
+.big-heading {
+  font-family: 'Bangers', cursive;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #c5d86d;
+  text-align: left;
+}
+
+.navbar{
+  padding: 0 0 5%;
+}
+
+.title-image{
+  position: absolute;
+  right: 15%;
+  transform: rotate(18deg);
+}
+
+@media (max-width: 1080px){
+  .title-image{
+    position: static;
+    text-align: center;
+  }
+}
+
+.nav-item{
+  padding: 0px 18px;
+}
+
+.nav-link{
+  font-weight: bold;
+}
+
+.btn-dark{
+  background-color: #cf7500;
+}
+
+#cards{
+  padding: 10% 15%;
+  background-color: #368F8B;
+}
+
+.font{
+  color: #FFFD98;
+  align-items: center;
+}
+
+.font:hover{
+  color: #D81E5B;
+}
+
+.card-row-head{
+  font-family: 'Acme', sans-serif;
+  align-content: center;
+  font-weight: bold;
+}
+
+.card-row-para{
+  font-family: 'Acme', sans-serif;
+  align-content: center;
+  font-weight: lighter;
+}
+
+.card-center{
+  text-align: center;
+}
+
+#testimonials{
+  background-color: #1b262c;
+  text-align: center;
+}
+
+.testimonial-head{
+  color: #fff;
+  font-family: 'Bangers', cursive;
+  padding: 5% 0%;
+}
+
+.tetimonial-em{
+  color: #fff;
+  font-family: 'Acme', sans-serif;
+  font-style: italic;
+}
+
+.testimonial-img{
+  border-radius: 50%;
+
+}
+
+span{
+  color: red;
+}
+
+.pricing-padding{
+  padding: 5% 4%;
+  text-align: center;
+}
+
+.pricing-title{
+  text-align: center;
+  font-family: 'Acme', sans-serif;
+}
+
+#pricing{
+  background-color: #368F8B;
+}
+
+.card-header{
+  background-color: #baf1a1;
+}
+
+#download{
+  background-color: #1b262c;
+  text-align: center;
+  padding: 3% 3%;
+}
+
+.download-head{
+  font-family: inherit;
+  color: #beebe9;
+  text-align: center;
+  padding: 4% 4%;
+  font-size: 75px;
+}
+
+.button-space1{
+  margin: 1% 1%;
+}
+
+#footer{
+  background-color: #368F8B;
+  font-weight: lighter;
+  text-align: center;
+  padding: 5% 5%;
+}
